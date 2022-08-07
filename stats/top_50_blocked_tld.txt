@@ -1,50 +1,50 @@
- 374480 com
-  49556 net
-  43382 info
-  22255 it
-  19687 de
-  17353 org
-  11062 es
-   7642 us
-   6410 uk
-   5098 io
-   4475 fr
-   4366 au
-   4324 in
-   3434 co
-   3212 eu
+ 371270 com
+  48316 net
+  43434 info
+  22254 it
+  19671 de
+  17377 org
+  11056 es
+   7656 us
+   6395 uk
+   4916 io
+   4458 fr
+   4370 au
+   4327 in
+   3395 co
+   3211 eu
    3032 st
-   2354 nl
-   2210 ca
+   2323 nl
+   2196 ca
    2133 hu
-   1529 cl
-   1389 id
-   1201 se
-   1129 ar
-   1083 at
-   1033 ir
-   1022 be
-    979 ch
-    670 gr
+   1530 cl
+   1391 id
+   1200 se
+   1130 ar
+   1040 ir
+   1021 be
+    980 ch
+    939 at
+    668 gr
     639 dk
     613 il
-    539 mobi
+    523 mobi
     464 vip
-    446 nu
-    439 nz
-    355 tl
+    447 nu
+    438 nz
+    351 tl
+    347 sg
     347 pe
-    346 sg
+    343 monster
     332 ma
-    318 click
+    319 click
     315 ng
     303 th
-    301 ie
+    299 ie
     298 edu
-    296 ve
+    295 ve
     287 gs
-    279 monster
     263 kz
-    257 bd
-    253 ug
-    250 hk
+    256 bd
+    254 ug
+    252 hk
