@@ -1,50 +1,50 @@
- 211503 com
-  43102 tk
+ 210863 com
+  43100 tk
   31396 stream
-  29307 net
-  20338 ru
-  15997 cn
-  12856 xyz
-   9660 de
-   8544 org
-   8077 cc
-   7575 site
-   7443 info
-   6118 es
-   6102 pl
-   6070 io
-   5347 su
+  29231 net
+  20318 ru
+  15982 cn
+  12872 xyz
+   9644 de
+   8513 org
+   8065 cc
+   7588 site
+   7243 info
+   6117 es
+   6086 pl
+   6051 io
+   5336 su
    4906 top
-   4511 br
-   3600 ml
-   3588 online
-   3564 ga
-   3430 cf
+   4509 br
+   3597 ml
+   3586 online
+   3562 ga
+   3428 cf
    3302 win
-   3281 pw
+   3275 pw
    3033 st
-   2777 uk
-   2745 biz
+   2769 uk
+   2737 biz
    2736 gq
-   2708 gdn
-   2632 club
-   2061 co
-   1988 in
+   2707 gdn
+   2630 club
+   2029 co
+   1982 in
    1947 au
-   1945 fr
+   1943 fr
    1730 bid
-   1515 me
-   1486 eu
-   1477 jp
-   1309 us
-   1236 it
-   1233 space
-   1230 pro
+   1506 me
+   1484 eu
+   1474 jp
+   1308 us
+   1233 it
+   1232 space
+   1219 pro
    1178 icu
-   1160 tv
+   1158 tv
    1097 vn
-   1081 ca
-   1057 za
+   1078 ca
+   1055 za
    1042 support
-   1018 website
-   1010 nl
+   1016 website
+   1002 nl
