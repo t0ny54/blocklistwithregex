@@ -1,50 +1,50 @@
- 211540 com
-  18070 net
-  15856 ru
+ 210029 com
+  17795 net
+  15809 ru
   13154 cn
-   8374 org
-   7480 info
-   7318 cc
+   8441 org
+   7484 info
+   7313 cc
    5204 su
    5005 lu
-   4572 io
-   4395 xyz
-   4357 pl
-   3613 ml
-   3547 ga
-   3427 cf
-   3304 win
-   3227 pw
+   4562 io
+   4386 xyz
+   4311 pl
+   3630 ml
+   3548 ga
+   3422 cf
+   3305 win
+   3229 pw
    3147 st
-   2794 de
+   2760 de
    2723 gq
-   2657 br
-   2621 gdn
-   2347 co
-   2011 uk
-   1974 in
-   1943 top
-   1812 fr
-   1684 bid
-   1569 site
+   2648 br
+   2620 gdn
+   2332 co
+   2000 uk
+   1976 in
+   1952 top
+   1780 fr
+   1683 bid
+   1567 site
    1500 eu
-   1441 jp
-   1414 au
-   1409 biz
-   1362 us
-   1272 it
+   1424 jp
+   1412 au
+   1401 biz
+   1361 us
+   1269 it
    1244 space
-   1223 pro
+   1235 pro
    1159 icu
-   1154 me
-   1126 ca
-   1115 vn
+   1156 me
+   1119 ca
+   1110 vn
    1040 support
-   1011 nl
-   1000 website
-    984 cl
-    965 live
-    957 online
-    945 za
-    941 app
+   1002 website
+    985 cl
+    962 live
+    959 online
+    954 nl
+    943 za
+    939 app
     932 host
