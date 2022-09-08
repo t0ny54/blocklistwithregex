@@ -1,50 +1,50 @@
- 210581 com
-  17793 net
-  15748 ru
-  13161 cn
-   8426 org
-   7315 cc
-   7274 info
-   5200 su
+ 211137 com
+  17879 net
+  15850 ru
+  13168 cn
+   8448 org
+   7316 cc
+   7312 info
+   5205 su
    5008 lu
-   4570 io
-   4414 xyz
-   4319 pl
-   3580 ml
-   3542 ga
-   3423 cf
+   4572 io
+   4417 xyz
+   4326 pl
+   3579 ml
+   3546 ga
+   3420 cf
    3303 win
-   3232 pw
+   3230 pw
    3147 st
-   2799 de
-   2707 gq
-   2645 br
+   2776 de
+   2711 gq
+   2654 br
    2622 gdn
-   2334 co
-   1999 uk
-   1977 in
-   1912 top
-   1779 fr
-   1684 bid
-   1607 site
-   1505 eu
-   1467 jp
-   1415 au
-   1407 biz
-   1360 us
-   1278 it
-   1248 space
-   1233 pro
-   1164 me
+   2337 co
+   2006 uk
+   1985 in
+   1921 top
+   1793 fr
+   1687 bid
+   1627 site
+   1516 eu
+   1456 jp
+   1422 biz
+   1411 au
+   1380 us
+   1271 it
+   1253 space
+   1247 pro
+   1177 me
    1161 icu
-   1133 ca
-   1109 vn
-   1040 support
+   1122 ca
+   1111 vn
+   1039 support
    1010 website
-    987 cl
-    972 online
-    967 nl
-    944 za
+    990 cl
+    979 online
+    956 nl
+    947 za
     943 live
-    940 app
     932 host
+    928 app
