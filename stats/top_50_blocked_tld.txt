@@ -1,50 +1,50 @@
- 211137 com
-  17879 net
-  15850 ru
-  13168 cn
-   8448 org
-   7316 cc
-   7312 info
-   5205 su
+ 211860 com
+  17915 net
+  15924 ru
+  13172 cn
+   8480 org
+   7345 info
+   7318 cc
+   5207 su
    5008 lu
-   4572 io
-   4417 xyz
-   4326 pl
-   3579 ml
-   3546 ga
-   3420 cf
+   4574 io
+   4458 xyz
+   4352 pl
+   3616 ml
+   3543 ga
+   3424 cf
    3303 win
    3230 pw
    3147 st
-   2776 de
-   2711 gq
-   2654 br
-   2622 gdn
-   2337 co
-   2006 uk
-   1985 in
-   1921 top
-   1793 fr
+   2772 de
+   2714 gq
+   2667 br
+   2621 gdn
+   2349 co
+   2014 uk
+   1992 in
+   1958 top
+   1806 fr
    1687 bid
-   1627 site
-   1516 eu
+   1655 site
+   1523 eu
    1456 jp
-   1422 biz
-   1411 au
-   1380 us
-   1271 it
-   1253 space
-   1247 pro
-   1177 me
-   1161 icu
-   1122 ca
+   1437 biz
+   1416 au
+   1390 us
+   1272 it
+   1257 pro
+   1256 space
+   1180 me
+   1162 icu
+   1123 ca
    1111 vn
    1039 support
    1010 website
     990 cl
-    979 online
-    956 nl
+    988 online
+    960 nl
+    951 live
     947 za
-    943 live
+    940 app
     932 host
-    928 app
