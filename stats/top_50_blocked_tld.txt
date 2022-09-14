@@ -1,50 +1,50 @@
- 211491 com
-  30871 net
-  16512 ru
-  13160 cn
-   8695 org
+ 212054 com
+  32083 net
+  16528 ru
+  13185 cn
+   8710 org
    7341 cc
-   7136 info
-   6003 io
-   5199 su
+   7148 info
+   6032 io
+   5201 su
    5004 lu
-   4550 pl
-   4374 xyz
-   3584 ml
-   3528 ga
+   4568 pl
+   4401 xyz
+   3587 ml
+   3529 ga
    3414 cf
    3297 win
-   3200 pw
-   3160 br
+   3242 pw
+   3197 br
    3157 st
-   2996 de
-   2884 uk
-   2706 gdn
-   2692 gq
-   2411 co
+   3148 de
+   2937 uk
+   2710 gdn
+   2694 gq
+   2416 co
+   2178 au
    2105 app
-   2103 au
-   2002 jp
-   1919 top
-   1903 fr
-   1898 in
-   1725 site
-   1666 bid
-   1497 eu
-   1357 us
+   2048 jp
+   1939 fr
+   1926 top
+   1905 in
+   1742 site
+   1670 bid
+   1500 eu
+   1390 it
+   1358 us
    1349 biz
-   1338 it
-   1275 space
-   1244 vn
-   1126 icu
-   1122 pro
-   1100 ca
+   1278 space
+   1255 vn
+   1128 icu
+   1123 pro
+   1106 ca
    1038 support
-   1014 me
-   1002 za
+   1017 me
+   1008 za
     989 website
-    962 live
-    956 online
-    942 cl
+    964 online
+    964 live
+    944 cl
     934 host
-    888 nl
+    919 nl
