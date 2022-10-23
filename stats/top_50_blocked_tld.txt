@@ -1,50 +1,50 @@
- 249277 com
-  43834 net
-  19310 ru
-  13588 cn
-  10223 org
-   9722 info
-   7808 xyz
-   7742 cc
-   6183 io
-   6168 de
-   5354 su
-   5184 fr
+ 249222 com
+  43826 net
+  19301 ru
+  13594 cn
+  10192 org
+   9719 info
+   7816 xyz
+   7746 cc
+   6180 io
+   6167 de
+   5353 su
+   5228 fr
    5009 lu
-   4879 top
-   4441 pl
-   3754 br
-   3318 tk
-   3222 uk
+   4888 top
+   4445 pl
+   3749 br
+   3316 tk
+   3220 uk
    3157 st
-   2733 co
-   2578 site
-   2543 in
-   2424 app
+   2729 co
+   2555 site
+   2539 in
+   2426 app
    2346 stream
-   2230 au
-   2140 ml
-   1960 ga
-   1863 jp
-   1829 cf
-   1819 us
-   1751 gq
-   1705 me
-   1690 it
-   1645 eu
-   1630 club
-   1616 online
-   1503 biz
-   1179 ca
-   1080 nl
-    880 es
-    861 link
+   2221 au
+   2138 ml
+   1957 ga
+   1865 jp
+   1830 cf
+   1817 us
+   1756 gq
+   1707 me
+   1689 it
+   1644 eu
+   1627 club
+   1617 online
+   1502 biz
+   1180 ca
+   1083 nl
+    878 es
+    862 link
     827 vn
     802 pro
-    788 za
+    786 za
     777 cz
     772 icu
-    766 space
-    764 tv
-    740 cl
+    769 space
+    763 tv
+    739 cl
     717 id
