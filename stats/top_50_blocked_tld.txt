@@ -1,9 +1,9 @@
- 246505 com
-  46024 net
+ 246664 com
+  45934 net
   17362 ru
   11808 cn
-   9619 org
-   7790 info
+   9618 org
+   7798 info
    7541 cc
    7351 io
    6520 de
