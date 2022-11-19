@@ -1,50 +1,50 @@
- 235131 com
-  46070 net
-  17457 ru
-  11834 cn
-   9553 org
-   7821 info
-   7550 cc
-   7358 io
-   6360 de
-   5242 su
-   5105 fr
+ 235307 com
+  46081 net
+  17441 ru
+  11839 cn
+   9551 org
+   7795 info
+   7552 cc
+   7373 io
+   6373 de
+   5240 su
+   5164 fr
    5004 lu
-   4793 top
-   4613 xyz
-   4312 pl
-   4097 tk
-   3751 ml
-   3705 br
-   3457 cf
-   3357 gq
-   3191 uk
+   4632 xyz
+   4381 top
+   4316 pl
+   4098 tk
+   3771 ml
+   3713 br
+   3460 cf
+   3358 gq
+   3189 uk
    3153 st
    2822 co
-   2544 in
-   2408 app
+   2549 in
+   2427 app
    2344 stream
-   2301 au
+   2302 au
    1963 jp
+   1944 site
    1944 ga
-   1940 site
-   1585 us
-   1530 it
-   1508 eu
-   1423 me
+   1584 us
+   1529 it
+   1510 eu
+   1426 me
    1310 biz
-   1239 ca
-   1029 online
-    913 nl
-    867 club
-    860 link
-    827 cz
-    820 za
+   1235 ca
+   1034 online
+    911 nl
+    870 link
+    870 club
+    828 cz
+    821 za
     808 vn
     767 tv
-    739 es
+    738 es
     718 pro
     701 cl
     690 id
+    687 space
     687 at
-    686 space
