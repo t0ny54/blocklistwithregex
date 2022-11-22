@@ -1,47 +1,47 @@
- 230010 com
+ 229989 com
   46033 net
-  17337 ru
+  17328 ru
   11861 cn
-   9583 org
-   7776 info
+   9580 org
+   7770 info
    7553 cc
    7381 io
    6411 de
-   5253 fr
+   5252 fr
    5240 su
    5007 lu
-   4687 xyz
-   4425 top
-   4347 pl
-   4156 tk
+   4641 xyz
+   4412 top
+   4336 pl
+   4151 tk
    3806 ml
-   3690 br
+   3689 br
    3519 cf
-   3406 gq
-   3192 uk
+   3404 gq
+   3191 uk
    3153 st
-   2842 co
+   2839 co
    2572 in
-   2418 app
+   2419 app
    2344 stream
-   2293 au
+   2291 au
    1987 jp
-   1951 site
-   1942 ga
+   1948 site
+   1943 ga
    1585 us
    1539 it
-   1515 eu
-   1413 me
+   1510 eu
+   1415 me
    1320 biz
-   1251 ca
-   1044 online
+   1252 ca
+   1042 online
     919 nl
-    868 club
+    867 club
     848 link
     839 cz
     822 za
     807 vn
-    777 tv
+    778 tv
     738 es
     722 pro
     701 cl
