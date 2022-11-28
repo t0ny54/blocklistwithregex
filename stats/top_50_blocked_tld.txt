@@ -1,50 +1,50 @@
- 230510 com
-  46457 net
-  17372 ru
-  11877 cn
-   9601 org
-   7683 info
-   7430 io
-   7427 cc
-   6405 de
-   5384 fr
-   5239 su
+ 231050 com
+  46980 net
+  17400 ru
+  11884 cn
+   9597 org
+   7687 info
+   7426 io
+   7424 cc
+   6393 de
+   5421 fr
+   5237 su
    5006 lu
-   4834 top
-   4763 xyz
-   4335 pl
-   4192 tk
-   3833 ml
-   3688 br
-   3554 cf
+   4832 top
+   4777 xyz
+   4332 pl
+   4184 tk
+   3834 ml
+   3690 br
+   3555 cf
    3434 gq
-   3182 uk
+   3181 uk
    3152 st
    2851 co
-   2554 in
+   2559 in
    2419 app
    2344 stream
-   2276 au
-   1992 site
+   2280 au
+   1975 site
    1973 jp
-   1948 ga
-   1596 us
-   1563 it
-   1526 eu
-   1423 me
-   1322 biz
-   1237 ca
-   1057 online
-    907 nl
-    886 club
-    856 link
-    837 cz
-    822 za
+   1950 ga
+   1597 us
+   1558 it
+   1524 eu
+   1424 me
+   1323 biz
+   1240 ca
+   1059 online
+    901 nl
+    887 club
+    857 link
+    838 cz
+    823 za
     810 vn
     780 tv
-    739 es
-    735 pro
-    706 cl
+    739 pro
+    730 es
+    702 cl
     701 space
-    689 id
-    689 at
+    688 id
+    688 at
