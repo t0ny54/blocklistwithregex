@@ -1,13 +1,13 @@
  233733 com
   44802 net
    9886 org
-   8824 io
-   7690 info
+   8823 io
+   7694 info
    7518 cc
    6330 de
    6305 ru
    5857 fr
-   5053 xyz
+   5052 xyz
    5009 lu
    4198 top
    4068 br
