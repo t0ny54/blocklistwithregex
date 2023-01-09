@@ -1,50 +1,50 @@
- 233672 com
-  44785 net
-   9871 org
-   8824 io
-   7717 info
-   7512 cc
+ 233580 com
+  44804 net
+   9862 org
+   8832 io
+   7770 info
+   7521 cc
    6322 de
-   6291 ru
-   5790 fr
-   5045 xyz
+   6295 ru
+   5796 fr
+   5136 xyz
    5009 lu
-   4188 top
-   4072 br
-   4011 pl
-   3249 tk
+   4154 top
+   4073 br
+   4014 pl
+   3239 tk
    3150 st
-   3120 uk
-   2817 in
-   2802 co
-   2443 app
-   2363 au
+   3113 uk
+   2813 in
+   2806 co
+   2454 app
+   2360 au
    2341 stream
-   2184 ml
-   1957 cn
-   1924 site
-   1863 cf
-   1859 ga
+   2180 ml
+   1960 cn
+   1934 site
+   1865 cf
+   1857 ga
    1728 jp
-   1547 it
-   1426 us
-   1426 me
-   1374 gq
-   1312 eu
-   1303 ca
-   1168 biz
-   1085 online
-    852 link
-    849 cz
+   1544 it
+   1428 us
+   1417 me
+   1375 gq
+   1320 eu
+   1302 ca
+   1173 biz
+   1088 online
+    879 link
+    848 cz
     841 club
-    835 za
-    830 nl
-    820 vn
-    813 cl
-    775 space
+    834 za
+    832 nl
+    815 vn
+    812 cl
+    773 space
     769 mx
-    748 pro
-    736 id
+    750 pro
+    734 id
     724 es
-    703 at
+    704 at
     653 gdn
