@@ -1,50 +1,50 @@
  234418 com
-  43712 net
-   9738 org
-   8860 io
-   7628 info
-   7500 cc
-   6301 ru
-   6252 de
-   6043 fr
-   5439 xyz
+  43703 net
+   9583 org
+   8858 io
+   7624 info
+   7503 cc
+   6335 ru
+   6251 de
+   6200 fr
+   5385 xyz
    5009 lu
-   4125 top
-   4080 br
-   4016 pl
+   4487 top
+   4082 br
+   4029 pl
    3302 tk
    3151 st
-   3131 uk
-   2808 in
-   2801 co
-   2441 app
-   2382 au
+   3123 uk
+   2804 in
+   2791 co
+   2447 app
+   2379 au
    2341 stream
-   2287 ml
-   2038 ga
-   2029 cf
-   1965 cn
-   1962 site
+   2290 ml
+   2041 ga
+   2027 cf
+   1971 cn
+   1966 site
    1783 jp
-   1461 it
-   1425 us
-   1372 gq
-   1367 me
-   1303 eu
-   1295 ca
-   1162 biz
-   1158 online
-    871 link
-    869 club
+   1459 it
+   1428 us
+   1376 gq
+   1369 me
+   1308 eu
+   1298 ca
+   1163 biz
+   1161 online
+    878 link
+    871 club
     863 cz
-    832 za
-    826 nl
-    817 vn
-    816 cl
-    770 pro
-    763 space
+    836 za
+    821 nl
+    818 vn
+    812 cl
+    772 pro
+    764 space
     759 mx
-    736 id
-    736 es
+    737 id
+    734 es
     703 at
     653 gdn
