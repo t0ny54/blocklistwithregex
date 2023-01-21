@@ -1,8 +1,8 @@
- 234564 com
-  43724 net
-   9563 org
+ 208213 com
+  43725 net
+   9550 org
    8861 io
-   7628 info
+   7616 info
    7502 cc
    6319 ru
    6245 de
@@ -16,7 +16,7 @@
    3151 st
    3141 uk
    2826 in
-   2797 co
+   2796 co
    2444 app
    2379 au
    2341 stream
