@@ -1,13 +1,13 @@
- 208184 com
-  43725 net
-   9555 org
+ 208139 com
+  43719 net
+   9553 org
    8863 io
-   7547 info
+   7511 info
    7502 cc
    6319 ru
    6245 de
    6175 fr
-   5400 xyz
+   5401 xyz
    5009 lu
    4451 top
    4087 br
