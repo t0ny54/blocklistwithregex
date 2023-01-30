@@ -1,50 +1,50 @@
- 209830 com
-  43756 net
-   9557 org
-   8860 io
-   7507 cc
-   7451 info
-   6350 ru
-   6222 de
-   6000 fr
-   5358 xyz
+ 210397 com
+  43768 net
+   9549 org
+   8859 io
+   7506 cc
+   7447 info
+   6348 ru
+   6218 de
+   5970 fr
+   5337 xyz
    5010 lu
-   4366 top
-   4071 br
-   4021 pl
-   3312 tk
-   3291 uk
+   4242 top
+   4064 br
+   4007 pl
+   3316 tk
+   3282 uk
    3152 st
-   2821 in
-   2752 co
-   2447 app
+   2809 in
+   2753 co
+   2441 app
    2384 au
    2341 stream
-   2295 ml
-   2056 ga
+   2293 ml
+   2055 ga
    2040 cf
-   2038 site
-   1994 cn
-   1874 jp
+   2036 site
+   1996 cn
+   1873 jp
    1527 it
-   1435 us
-   1394 online
-   1375 me
-   1370 gq
-   1297 ca
-   1288 eu
-   1163 biz
-    889 link
+   1429 us
+   1384 online
+   1372 me
+   1371 gq
+   1295 ca
+   1282 eu
+   1157 biz
+    895 link
     878 cz
-    875 club
+    874 club
     866 nl
     827 za
-    824 vn
-    816 cl
-    784 pro
-    777 mx
-    740 id
-    726 es
-    702 at
-    664 space
+    825 vn
+    814 cl
+    782 pro
+    775 mx
+    744 id
+    727 es
+    701 at
     653 shop
+    653 gdn
