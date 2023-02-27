@@ -1,50 +1,50 @@
- 212661 com
-  43706 net
-   9967 org
-   8975 io
-   8058 info
-   7520 cc
-   6391 ru
-   6389 fr
-   5823 de
-   5730 xyz
+ 212601 com
+  43702 net
+   9961 org
+   8976 io
+   8054 info
+   7523 cc
+   6398 ru
+   6396 fr
+   5825 de
+   5677 xyz
    5004 lu
-   4052 top
-   4013 pl
-   4004 br
-   3297 tk
-   3290 uk
+   4051 top
+   4014 pl
+   4009 br
+   3296 tk
+   3285 uk
    3150 st
-   2777 in
-   2729 co
+   2779 in
+   2731 co
    2469 app
-   2390 au
+   2395 au
    2341 stream
-   2303 ml
-   2281 site
-   2108 ga
-   2055 cf
-   2051 cn
-   1998 jp
-   1558 it
-   1506 online
-   1418 us
-   1377 me
-   1371 gq
+   2305 ml
+   2276 site
+   2110 ga
+   2054 cf
+   2048 cn
+   1997 jp
+   1559 it
+   1504 online
+   1420 us
+   1378 me
+   1370 gq
    1349 ca
-   1230 eu
-   1140 biz
+   1224 eu
+   1143 biz
     934 cz
     908 link
-    873 club
-    839 live
-    827 nl
+    872 club
+    840 live
     826 za
-    820 vn
+    826 vn
+    823 nl
     804 pro
-    803 shop
-    796 cl
-    771 mx
+    801 shop
+    797 cl
+    773 mx
     718 id
-    709 at
-    698 es
+    705 at
+    699 es
