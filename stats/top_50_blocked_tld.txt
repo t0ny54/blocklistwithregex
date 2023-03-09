@@ -1,8 +1,8 @@
- 213973 com
+ 213961 com
   43730 net
-  10059 org
+  10053 org
    9037 io
-   8260 info
+   8262 info
    8063 de
    7515 cc
    6365 ru
