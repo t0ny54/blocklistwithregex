@@ -1,50 +1,50 @@
- 217365 com
-  44228 net
+ 217566 com
+  44227 net
   10482 org
-   9045 io
+   9043 io
    8223 info
-   7511 cc
-   6493 ru
-   6232 xyz
-   6201 fr
-   5785 de
+   7513 cc
+   6482 ru
+   6407 xyz
+   6249 fr
+   5802 de
    5004 lu
-   4393 top
-   4252 pl
-   3980 br
-   3318 uk
-   3257 tk
+   4435 top
+   4038 pl
+   3985 br
+   3323 uk
+   3263 tk
    3158 st
-   2809 site
-   2759 in
-   2745 co
-   2553 app
-   2396 au
+   2838 site
+   2749 in
+   2741 co
+   2551 app
+   2392 au
    2344 stream
-   2310 ml
-   2109 ga
-   2058 cf
-   1972 cn
+   2309 ml
+   2108 ga
+   2057 cf
+   1969 cn
    1938 jp
-   1762 online
+   1773 online
    1459 it
-   1419 cz
-   1408 us
-   1407 me
-   1371 gq
-   1349 ca
-   1206 eu
-   1172 shop
-   1102 biz
-   1055 at
-    891 pro
-    873 live
-    825 za
-    819 nl
+   1418 cz
+   1408 me
+   1405 us
+   1368 gq
+   1348 ca
+   1209 shop
+   1207 eu
+   1104 biz
+   1059 at
+    892 pro
+    880 live
+    824 za
+    817 nl
     810 vn
-    792 cl
-    776 club
-    768 mx
-    717 id
-    715 store
-    672 es
+    796 cl
+    778 club
+    767 mx
+    729 store
+    716 id
+    677 space
