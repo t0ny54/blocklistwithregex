@@ -1,50 +1,50 @@
- 217783 com
-  44231 net
-  10496 org
-   9054 io
-   8233 info
-   7516 cc
-   6560 xyz
-   6486 ru
-   6275 fr
-   5802 de
+ 218348 com
+  44225 net
+  10509 org
+   9050 io
+   8229 info
+   7514 cc
+   6519 ru
+   6404 xyz
+   6326 fr
+   5804 de
    5004 lu
-   4444 top
-   4133 pl
-   3996 br
-   3321 uk
-   3262 tk
+   4456 top
+   4185 pl
+   4005 br
+   3327 uk
+   3265 tk
    3158 st
-   2846 site
-   2751 in
-   2746 co
-   2551 app
-   2391 au
+   2882 site
+   2750 in
+   2740 co
+   2553 app
+   2397 au
    2344 stream
-   2309 ml
+   2308 ml
    2107 ga
-   2060 cf
-   1970 cn
+   2061 cf
+   1974 cn
    1938 jp
-   1851 online
+   1857 online
    1461 it
-   1417 cz
-   1410 me
-   1406 us
-   1353 gq
+   1418 cz
+   1412 me
+   1408 us
    1349 ca
-   1236 shop
-   1209 eu
+   1332 gq
+   1237 shop
+   1213 eu
    1103 biz
    1057 at
-    895 pro
-    879 live
+    909 pro
+    881 live
     825 za
-    817 nl
-    811 vn
-    794 cl
-    777 club
-    766 mx
-    731 store
-    714 id
-    677 space
+    818 nl
+    814 vn
+    799 cl
+    776 club
+    767 mx
+    732 store
+    713 id
+    681 space
