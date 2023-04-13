@@ -1,50 +1,50 @@
- 209824 com
-  43969 net
-  10533 org
-   9047 io
-   8605 info
+ 210266 com
+  43984 net
+  10560 org
+   9048 io
+   8604 info
    7508 cc
-   6465 fr
+   6500 fr
    6445 ru
-   6138 xyz
-   5924 de
+   6156 xyz
+   5945 de
+   5164 pl
    5009 lu
-   5004 pl
-   4480 top
-   4034 br
-   3272 tk
-   3266 uk
+   4499 top
+   4036 br
+   3276 tk
+   3274 uk
    3157 st
-   2919 site
-   2724 co
-   2710 in
-   2538 app
-   2419 au
-   2339 stream
+   2940 site
+   2717 in
+   2710 co
+   2534 app
+   2418 au
+   2338 stream
    2120 ml
+   2023 cn
    2021 jp
-   2018 cn
-   1913 ga
-   1850 cf
-   1739 online
-   1484 it
+   1916 ga
+   1853 cf
+   1759 online
+   1494 it
    1414 cz
-   1385 me
-   1384 us
-   1334 ca
-   1221 shop
-   1200 eu
+   1392 us
+   1388 me
+   1336 ca
+   1254 shop
+   1199 eu
    1056 at
-   1027 biz
-    870 gq
-    867 pro
-    855 live
-    833 za
+   1028 biz
+    869 pro
+    868 gq
+    861 live
+    830 za
     825 nl
-    811 vn
-    808 cl
-    783 mx
-    737 club
-    732 id
-    678 es
-    674 store
+    809 vn
+    807 cl
+    779 mx
+    742 club
+    727 id
+    689 store
+    683 space
