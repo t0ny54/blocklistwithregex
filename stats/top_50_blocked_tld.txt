@@ -1,8 +1,8 @@
- 210899 com
-  43943 net
+ 210905 com
+  43941 net
   10375 org
    9059 io
-   8618 info
+   8608 info
    7511 cc
    6570 fr
    6403 ru
@@ -36,7 +36,7 @@
    1200 eu
    1058 at
    1025 biz
-    873 pro
+    874 pro
     870 gq
     863 live
     827 za
@@ -47,4 +47,4 @@
     740 club
     734 store
     729 id
-    705 space
+    704 space
