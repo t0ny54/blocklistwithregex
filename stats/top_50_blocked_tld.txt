@@ -1,8 +1,8 @@
- 217542 com
-  45107 net
-  10529 org
+ 217488 com
+  41335 net
+  10521 org
    9144 io
-   8659 info
+   8650 info
    7521 cc
    6747 fr
    6372 ru
@@ -38,7 +38,7 @@
    1007 biz
     928 nl
     868 live
-    857 pro
+    856 pro
     840 za
     838 store
     806 cl
