@@ -1,8 +1,8 @@
- 217488 com
+ 217473 com
   41335 net
-  10521 org
-   9144 io
-   8650 info
+  10512 org
+   9143 io
+   8623 info
    7521 cc
    6747 fr
    6372 ru
