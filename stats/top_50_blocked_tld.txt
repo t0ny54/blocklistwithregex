@@ -1,50 +1,50 @@
- 213791 com
-  41049 net
-  10422 org
-   9136 io
-   9102 info
-   7502 cc
-   6740 fr
-   6339 ru
-   6166 xyz
+ 214176 com
+  41070 net
+  10441 org
+   9137 io
+   9086 info
+   7500 cc
+   6756 fr
+   6346 ru
+   6195 xyz
    5004 lu
-   4638 top
-   4534 de
-   3980 pl
-   3952 br
-   3293 uk
-   3265 tk
+   4666 top
+   4532 de
+   4009 br
+   3993 pl
+   3298 uk
+   3261 tk
    3140 st
-   2957 site
-   2674 co
-   2629 au
-   2584 app
-   2558 jp
-   2522 in
+   3083 site
+   2682 co
+   2626 au
+   2594 app
+   2557 jp
+   2524 in
    2337 stream
-   2048 cn
-   1979 online
-   1675 ml
-   1477 it
-   1462 ca
-   1415 cf
+   2068 online
+   2055 cn
+   1671 ml
+   1484 it
+   1464 ca
+   1449 me
+   1413 cf
    1372 ga
-   1366 me
    1307 us
-   1176 eu
+   1183 eu
    1028 cz
     985 biz
-    906 shop
-    892 nl
-    866 pro
-    843 live
-    811 za
-    807 gq
-    789 vn
+    905 shop
+    891 nl
+    875 pro
+    845 live
+    807 za
+    804 gq
+    797 mx
     788 cl
-    783 mx
-    748 club
+    786 vn
+    747 club
     700 es
-    687 click
-    682 space
-    658 life
+    690 click
+    687 space
+    661 website
