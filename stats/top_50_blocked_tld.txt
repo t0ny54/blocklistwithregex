@@ -1,50 +1,50 @@
- 215271 com
-  41091 net
-  10488 org
-   9199 io
-   9081 info
-   7515 cc
-   6842 fr
-   6383 ru
-   6318 xyz
+ 215320 com
+  41083 net
+  10490 org
+   9201 io
+   9105 info
+   7520 cc
+   6880 fr
+   6421 ru
+   6346 xyz
    5004 lu
-   4700 top
-   4560 de
-   4013 pl
-   3894 br
-   3314 uk
+   4703 top
+   4556 de
+   4017 pl
+   3892 br
+   3317 uk
    3265 tk
    3140 st
-   3084 site
-   2704 co
-   2632 au
-   2602 app
+   3110 site
+   2702 co
+   2631 au
+   2592 app
    2591 jp
-   2541 in
+   2537 in
    2337 stream
-   2077 cn
-   2026 online
+   2079 cn
+   2040 online
    1676 ml
-   1483 it
-   1471 ca
+   1484 it
+   1472 ca
    1419 cf
-   1372 me
    1372 ga
-   1301 us
+   1368 me
+   1302 us
    1192 eu
    1027 cz
-    995 biz
-    931 shop
-    898 nl
-    893 pro
-    857 live
-    812 za
-    806 gq
+    994 biz
+    935 shop
+    896 pro
+    895 nl
+    858 live
+    808 za
+    805 gq
     788 vn
-    785 cl
-    774 mx
+    786 cl
+    775 mx
     763 club
-    710 space
-    700 es
-    693 click
-    674 life
+    717 space
+    699 es
+    696 click
+    676 life
