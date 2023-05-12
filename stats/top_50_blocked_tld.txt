@@ -1,50 +1,50 @@
- 215320 com
-  41083 net
-  10490 org
-   9201 io
-   9105 info
-   7520 cc
-   6880 fr
-   6421 ru
-   6346 xyz
+ 215713 com
+  41093 net
+  10513 org
+   9200 io
+   9088 info
+   7516 cc
+   6897 fr
+   6436 ru
+   6394 xyz
    5004 lu
-   4703 top
-   4556 de
-   4017 pl
-   3892 br
-   3317 uk
-   3265 tk
+   4722 top
+   4557 de
+   4038 pl
+   3959 br
+   3313 uk
+   3263 tk
    3140 st
-   3110 site
-   2702 co
-   2631 au
+   3127 site
+   2704 co
+   2645 au
+   2592 jp
    2592 app
-   2591 jp
-   2537 in
+   2550 in
    2337 stream
-   2079 cn
-   2040 online
-   1676 ml
-   1484 it
+   2088 cn
+   2049 online
+   1672 ml
+   1493 it
    1472 ca
    1419 cf
-   1372 ga
-   1368 me
-   1302 us
-   1192 eu
+   1374 me
+   1374 ga
+   1303 us
+   1194 eu
    1027 cz
-    994 biz
-    935 shop
-    896 pro
-    895 nl
-    858 live
-    808 za
+    997 biz
+    943 shop
+    898 pro
+    897 nl
+    864 live
+    812 za
     805 gq
-    788 vn
-    786 cl
-    775 mx
-    763 club
-    717 space
-    699 es
-    696 click
-    676 life
+    789 vn
+    789 mx
+    785 cl
+    765 club
+    725 space
+    701 es
+    698 click
+    684 life
