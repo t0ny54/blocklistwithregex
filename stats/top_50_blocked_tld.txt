@@ -1,50 +1,50 @@
- 215713 com
-  41093 net
-  10513 org
-   9200 io
-   9088 info
-   7516 cc
-   6897 fr
-   6436 ru
-   6394 xyz
+ 216761 com
+  41110 net
+  10551 org
+   9203 io
+   9076 info
+   7517 cc
+   6921 fr
+   6435 ru
+   6431 xyz
    5004 lu
-   4722 top
-   4557 de
-   4038 pl
-   3959 br
-   3313 uk
-   3263 tk
+   4743 top
+   4733 pl
+   4573 de
+   3956 br
+   3326 uk
+   3264 tk
+   3227 site
    3140 st
-   3127 site
-   2704 co
-   2645 au
-   2592 jp
-   2592 app
-   2550 in
+   2714 co
+   2674 au
+   2638 jp
+   2604 app
+   2548 in
    2337 stream
-   2088 cn
-   2049 online
+   2098 cn
+   2087 online
    1672 ml
-   1493 it
-   1472 ca
+   1500 it
+   1490 ca
    1419 cf
    1374 me
    1374 ga
-   1303 us
-   1194 eu
-   1027 cz
-    997 biz
-    943 shop
+   1314 us
+   1200 eu
+   1030 cz
+    993 biz
+    942 shop
     898 pro
-    897 nl
-    864 live
-    812 za
-    805 gq
-    789 vn
-    789 mx
-    785 cl
-    765 club
-    725 space
-    701 es
-    698 click
-    684 life
+    898 nl
+    871 live
+    814 za
+    806 gq
+    794 mx
+    788 vn
+    787 cl
+    769 club
+    733 space
+    716 es
+    701 click
+    686 life
