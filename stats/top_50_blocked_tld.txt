@@ -1,50 +1,50 @@
- 216730 com
-  41120 net
-  10552 org
-   9202 io
-   9059 info
-   7517 cc
-   6972 fr
-   6436 xyz
-   6422 ru
+ 216452 com
+  41111 net
+  10531 org
+   9208 io
+   9028 info
+   7518 cc
+   6979 fr
+   6449 xyz
+   6433 ru
    5004 lu
-   4779 pl
-   4737 top
-   4570 de
-   3961 br
-   3328 uk
+   4982 pl
+   4772 top
+   4571 de
+   3934 br
+   3321 uk
+   3301 site
    3265 tk
-   3247 site
    3140 st
-   2712 co
-   2673 au
-   2637 jp
-   2603 app
-   2548 in
+   2707 co
+   2668 au
+   2638 jp
+   2597 app
+   2529 in
    2337 stream
-   2102 cn
-   2092 online
+   2107 cn
+   2091 online
    1674 ml
    1499 it
-   1490 ca
-   1418 cf
-   1373 ga
-   1372 me
-   1310 us
-   1202 eu
+   1489 ca
+   1419 cf
+   1374 me
+   1372 ga
+   1305 us
+   1200 eu
    1030 cz
     994 biz
-    944 shop
-    899 nl
+    943 shop
     898 pro
-    870 live
-    813 za
+    896 nl
+    871 live
+    812 za
     805 gq
-    792 mx
-    788 vn
-    784 cl
+    789 vn
+    780 cl
+    779 mx
     769 club
-    736 space
-    714 es
-    700 click
-    687 life
+    738 space
+    713 es
+    699 click
+    689 life
