@@ -1,50 +1,50 @@
- 218103 com
-  41242 net
-  10780 org
-   9234 io
-   8707 info
-   7524 cc
-   7494 fr
-   6890 xyz
-   6566 ru
-   5558 pl
-   5008 top
+ 218478 com
+  41257 net
+  10874 org
+   9228 io
+   9163 info
+   7529 cc
+   7508 fr
+   6941 xyz
+   6563 ru
+   5602 pl
+   5014 top
    5002 lu
-   4600 site
-   4516 de
-   3727 br
+   4616 site
+   4517 de
+   3738 br
    3337 uk
-   3277 tk
+   3279 tk
    3140 st
-   2776 jp
-   2704 co
-   2629 app
-   2617 au
+   2775 jp
+   2703 co
+   2633 app
+   2619 au
    2340 stream
-   2312 in
-   2189 online
-   2143 cn
-   1678 ml
+   2316 in
+   2192 online
+   2144 cn
+   1679 ml
    1536 it
-   1481 ca
-   1423 cf
-   1383 ga
-   1372 me
-   1291 us
-   1225 eu
+   1483 ca
+   1422 cf
+   1386 ga
+   1374 me
+   1289 us
+   1227 eu
    1026 cz
-   1000 biz
-    994 shop
-    931 pro
-    913 live
-    900 nl
-    857 space
+    999 biz
+    996 shop
+    930 pro
+    914 live
+    902 nl
+    862 space
     803 gq
-    794 club
-    789 vn
-    764 za
-    742 cl
+    792 club
+    786 vn
+    761 za
+    740 cl
     739 click
-    736 es
+    737 es
     734 life
     718 mx
