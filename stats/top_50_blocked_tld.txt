@@ -1,50 +1,50 @@
- 218796 com
-  41333 net
+ 219015 com
+  41331 net
   10868 org
-   9259 io
-   9197 info
-   7740 fr
-   7534 cc
-   7098 xyz
-   6613 ru
-   5928 pl
-   5113 top
-   5111 site
+   9257 io
+   9204 info
+   7777 fr
+   7533 cc
+   7120 xyz
+   6622 ru
+   5936 pl
+   5122 top
+   5110 site
    5002 lu
-   4573 de
-   3594 br
-   3342 uk
-   3290 tk
+   4570 de
+   3596 br
+   3347 uk
+   3291 tk
    3140 st
    2819 jp
-   2697 co
-   2671 app
-   2627 au
-   2340 stream
-   2237 online
-   2202 in
-   2125 cn
-   1679 ml
-   1531 it
-   1481 ca
+   2693 co
+   2648 app
+   2628 au
+   2339 stream
+   2240 online
+   2199 in
+   2130 cn
+   1677 ml
+   1532 it
+   1480 ca
    1427 cf
-   1387 me
-   1384 ga
+   1388 ga
+   1381 me
    1274 us
-   1239 eu
+   1240 eu
    1037 cz
-   1021 shop
-   1001 biz
-    936 pro
-    921 live
-    917 space
-    912 nl
-    805 gq
-    796 club
-    786 vn
-    753 click
+   1030 shop
+   1000 biz
+    935 pro
+    927 live
+    921 space
+    910 nl
+    806 gq
+    794 club
+    784 vn
+    762 click
+    745 life
     744 es
     742 za
-    742 life
-    713 cl
+    716 cl
     701 mx
