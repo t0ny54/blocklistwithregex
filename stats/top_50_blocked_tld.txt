@@ -1,50 +1,50 @@
- 218894 com
-  41304 net
-  10902 org
-   9269 io
-   9190 info
-   7852 fr
+ 218831 com
+  41290 net
+  10880 org
+   9272 io
+   9191 info
+   7866 fr
    7532 cc
-   7132 xyz
-   6602 ru
-   6002 pl
-   5163 site
-   5159 top
-   5013 de
-   5004 lu
-   3445 br
-   3355 uk
+   7175 xyz
+   6612 ru
+   6055 pl
+   5199 site
+   5185 top
+   5003 lu
+   4996 de
+   3494 br
+   3337 uk
    3293 tk
    3141 st
    2913 jp
-   2663 au
-   2654 app
-   2393 co
+   2668 au
+   2647 app
+   2402 co
    2339 stream
-   2256 online
+   2273 online
    2136 cn
-   2047 in
-   1681 ml
-   1517 it
-   1508 ca
-   1427 cf
-   1384 ga
-   1377 me
-   1286 us
-   1241 eu
+   2059 in
+   1683 ml
+   1513 ca
+   1502 it
+   1428 cf
+   1383 ga
+   1381 me
+   1293 us
+   1247 eu
    1056 cz
-   1042 shop
-   1001 biz
-    954 space
-    937 pro
-    928 live
-    920 nl
-    805 gq
-    795 club
-    780 vn
-    759 click
-    756 es
+   1048 shop
+   1009 biz
+    962 space
+    944 pro
+    932 live
+    911 nl
+    806 gq
+    799 club
+    778 vn
+    768 click
     749 life
-    723 za
-    680 cl
-    671 dev
+    740 es
+    733 za
+    685 mx
+    675 dev
