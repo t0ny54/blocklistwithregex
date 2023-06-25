@@ -1,50 +1,50 @@
- 219504 com
-  41300 net
-  10854 org
-   9282 io
-   9162 info
-   8054 fr
-   7550 xyz
-   7548 cc
-   6627 ru
-   6180 pl
-   5535 site
-   5315 top
+ 219547 com
+  41304 net
+  10855 org
+   9270 io
+   9118 info
+   8065 fr
+   7571 xyz
+   7545 cc
+   6621 ru
+   6214 pl
+   5545 site
+   5326 top
    5006 lu
-   4780 de
+   4783 de
    3989 ninja
-   3486 br
-   3335 uk
-   3301 tk
+   3492 br
+   3332 uk
+   3298 tk
    3142 st
-   2922 jp
-   2708 au
-   2652 app
-   2422 co
-   2361 online
+   2923 jp
+   2748 app
+   2696 au
+   2419 co
+   2365 online
    2339 stream
    2159 cn
    1999 in
    1685 ml
-   1522 ca
+   1523 ca
    1502 it
-   1431 cf
-   1397 me
-   1384 ga
-   1311 us
-   1247 eu
-   1103 shop
+   1429 cf
+   1400 me
+   1387 ga
+   1310 us
+   1252 eu
+   1107 shop
    1073 cz
-   1045 space
-   1006 biz
-    970 pro
+   1046 space
+   1007 biz
+    972 pro
     957 live
-    937 nl
-    812 click
-    806 club
+    938 nl
+    820 click
     805 gq
-    777 vn
-    760 life
+    801 club
+    780 vn
+    764 life
     749 za
     739 es
-    700 mx
+    699 mx
