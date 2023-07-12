@@ -1,21 +1,21 @@
- 222042 com
-  41399 net
+ 222080 com
+  41317 net
   11147 org
-   9549 info
-   9287 io
-   8164 fr
+   9504 info
+   9286 io
+   8170 fr
    7602 xyz
    7551 cc
    6616 ru
-   6288 pl
+   6294 pl
    5596 site
    5355 top
    5006 lu
-   4800 de
+   4806 de
    4191 page
    3989 ninja
    3479 br
-   3336 uk
+   3344 uk
    3299 tk
    3142 st
    2922 jp
@@ -28,11 +28,11 @@
    2008 in
    1686 ml
    1524 ca
-   1503 it
+   1507 it
    1429 cf
    1398 me
    1384 ga
-   1308 us
+   1307 us
    1251 eu
    1118 shop
    1076 cz
