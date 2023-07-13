@@ -1,7 +1,7 @@
- 222080 com
-  41317 net
-  11147 org
-   9504 info
+ 222089 com
+  41305 net
+  11149 org
+   9488 info
    9286 io
    8170 fr
    7602 xyz
