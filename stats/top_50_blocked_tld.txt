@@ -1,7 +1,7 @@
- 221767 com
-  41308 net
-  11102 org
-   9389 info
+ 221667 com
+  41305 net
+  11092 org
+   9374 info
    9290 io
    8170 fr
    7602 xyz
