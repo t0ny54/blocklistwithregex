@@ -1,8 +1,8 @@
- 221542 com
-  41304 net
-  11090 org
-   9343 info
-   9290 io
+ 221462 com
+  41293 net
+  11086 org
+   9334 info
+   9292 io
    8170 fr
    7602 xyz
    7551 cc
