@@ -1,8 +1,8 @@
- 221147 com
-  41236 net
-  10956 org
-   9293 io
-   9249 info
+ 221400 com
+  41421 net
+  11115 org
+   9608 info
+   9291 io
    8170 fr
    7602 xyz
    7550 cc
@@ -33,12 +33,12 @@
    1398 me
    1384 ga
    1307 us
-   1251 eu
+   1248 eu
    1118 shop
    1076 cz
-   1058 space
+   1057 space
    1008 biz
-    973 pro
+    974 pro
     964 live
     939 nl
     806 gq
