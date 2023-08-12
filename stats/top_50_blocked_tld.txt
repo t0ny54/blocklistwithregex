@@ -1,7 +1,7 @@
- 220938 com
-  41487 net
-  11023 org
-   9505 info
+ 220913 com
+  41484 net
+  11024 org
+   9497 info
    9300 io
    8170 fr
    7602 xyz
@@ -33,7 +33,7 @@
    1398 me
    1384 ga
    1307 us
-   1247 eu
+   1244 eu
    1118 shop
    1076 cz
    1057 space
