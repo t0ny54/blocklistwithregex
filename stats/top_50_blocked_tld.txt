@@ -1,8 +1,8 @@
- 220889 com
-  41505 net
-  11020 org
-   9471 info
-   9305 io
+ 220923 com
+  41502 net
+  11047 org
+   9506 info
+   9304 io
    8170 fr
    7602 xyz
    7550 cc
@@ -18,10 +18,10 @@
    3344 uk
    3299 tk
    3162 st
-   2920 jp
+   2921 jp
    2677 au
    2654 app
-   2423 co
+   2424 co
    2377 online
    2339 stream
    2158 cn
