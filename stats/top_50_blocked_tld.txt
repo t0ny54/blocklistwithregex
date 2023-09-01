@@ -1,26 +1,25 @@
- 220892 com
-  41477 net
-  10959 org
-   9381 info
-   9304 io
+ 220555 com
+  41487 net
+  10949 org
+   9362 info
+   9303 io
    8170 fr
    7602 xyz
    7550 cc
    6617 ru
-   6294 pl
+   6277 pl
    5596 site
    5355 top
    5006 lu
-   4806 de
+   4782 de
    4191 page
    3989 ninja
    3479 br
-   3344 uk
+   3324 uk
    3299 tk
-   3163 st
+   3164 st
    2921 jp
    2677 au
-   2654 app
    2424 co
    2377 online
    2339 stream
@@ -28,7 +27,8 @@
    2008 in
    1686 ml
    1524 ca
-   1507 it
+   1480 it
+   1472 app
    1429 cf
    1398 me
    1384 ga
