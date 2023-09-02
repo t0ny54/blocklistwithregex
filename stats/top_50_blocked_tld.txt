@@ -1,10 +1,10 @@
- 220555 com
-  41487 net
-  10949 org
-   9362 info
+ 220721 com
+  41558 net
+  10970 org
+   9623 info
    9303 io
    8170 fr
-   7602 xyz
+   7603 xyz
    7550 cc
    6617 ru
    6277 pl
@@ -21,7 +21,7 @@
    2921 jp
    2677 au
    2424 co
-   2377 online
+   2378 online
    2339 stream
    2158 cn
    2008 in
@@ -32,13 +32,13 @@
    1429 cf
    1398 me
    1384 ga
-   1307 us
+   1309 us
    1241 eu
    1118 shop
    1076 cz
-   1057 space
-   1008 biz
-    974 pro
+   1058 space
+   1026 biz
+    973 pro
     964 live
     939 nl
     806 gq
