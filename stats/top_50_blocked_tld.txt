@@ -1,8 +1,8 @@
- 220738 com
-  41558 net
-  10960 org
-   9624 info
-   9304 io
+ 220732 com
+  41535 net
+  10959 org
+   9613 info
+   9302 io
    8170 fr
    7603 xyz
    7550 cc
