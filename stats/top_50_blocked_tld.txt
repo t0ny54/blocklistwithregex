@@ -1,7 +1,7 @@
- 220709 com
-  41426 net
+ 220611 com
+  41423 net
   10932 org
-   9590 info
+   9622 info
    9304 io
    8170 fr
    7603 xyz
@@ -37,7 +37,7 @@
    1118 shop
    1076 cz
    1058 space
-   1021 biz
+   1020 biz
     973 pro
     964 live
     939 nl
