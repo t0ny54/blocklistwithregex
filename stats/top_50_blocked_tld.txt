@@ -1,7 +1,7 @@
- 220359 com
-  41421 net
-  10904 org
-   9615 info
+ 220358 com
+  41445 net
+  10900 org
+   9629 info
    9303 io
    8170 fr
    7603 xyz
@@ -32,12 +32,12 @@
    1429 cf
    1398 me
    1384 ga
-   1309 us
+   1308 us
    1241 eu
    1118 shop
    1076 cz
    1058 space
-   1010 biz
+   1008 biz
     973 pro
     964 live
     939 nl
