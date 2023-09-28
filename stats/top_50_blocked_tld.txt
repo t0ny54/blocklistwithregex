@@ -1,7 +1,7 @@
- 220268 com
-  41580 net
-  10984 org
-   9608 info
+ 220258 com
+  41582 net
+  10988 org
+   9602 info
    9319 io
    8170 fr
    7603 xyz
@@ -20,11 +20,11 @@
    3164 st
    2921 jp
    2677 au
-   2424 co
+   2421 co
    2378 online
    2339 stream
    2158 cn
-   2008 in
+   2009 in
    1686 ml
    1524 ca
    1480 it
