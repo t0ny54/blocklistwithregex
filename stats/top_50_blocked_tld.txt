@@ -1,8 +1,8 @@
- 220531 com
-  41500 net
-  10936 org
-   9577 info
-   9321 io
+ 220602 com
+  41503 net
+  10925 org
+   9573 info
+   9320 io
    8170 fr
    7603 xyz
    7550 cc
@@ -46,5 +46,5 @@
     804 club
     780 vn
     763 life
+    747 za
     747 es
-    746 za
