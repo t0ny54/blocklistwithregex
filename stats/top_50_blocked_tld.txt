@@ -1,7 +1,7 @@
- 220602 com
-  41503 net
-  10914 org
-   9567 info
+ 220592 com
+  41506 net
+  10906 org
+   9597 info
    9319 io
    8170 fr
    7603 xyz
@@ -46,5 +46,5 @@
     804 club
     780 vn
     763 life
-    747 za
+    748 za
     747 es
