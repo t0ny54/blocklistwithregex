@@ -1,8 +1,8 @@
- 218616 com
+ 218612 com
   41509 net
-  10888 org
-   9617 info
-   9319 io
+  10886 org
+   9607 info
+   9320 io
    8170 fr
    7603 xyz
    7550 cc
@@ -43,7 +43,7 @@
     939 nl
     806 gq
     805 click
-    804 club
+    803 club
     780 vn
     763 life
     748 za
