@@ -1,10 +1,6 @@
-cachefe1-dev.dallas.linode.georiot.com
-gravatar.plausible.io
-lb1b-production.fra1.digitalocean.georiot.com
-ns.avtonom.info
-smtpauth.ww.gamail.com
-ww1.dramaticdistinctives.info
-ww2.portailwebecoles.info
-ww38.dramaticdistinctives.info
-www.my.domain.name
-www.shippuden.info
+mx4.bhringer.com
+retirementaccountsguide.com
+rock.reauthenticator.com
+s.dmmew.com
+securely-protectsoft.com
+ww25.search.nationalbaza.com
