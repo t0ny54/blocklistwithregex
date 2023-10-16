@@ -1,8 +1,8 @@
- 218541 com
-  41505 net
+ 218361 com
+  41499 net
   10842 org
-   9579 info
-   9331 io
+   9582 info
+   9334 io
    8170 fr
    7603 xyz
    7550 cc
