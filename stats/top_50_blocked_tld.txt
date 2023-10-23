@@ -1,8 +1,8 @@
- 218247 com
-  41497 net
+ 218243 com
+  41495 net
   10843 org
-   9575 info
-   9335 io
+   9569 info
+   9336 io
    8170 fr
    7603 xyz
    7550 cc
