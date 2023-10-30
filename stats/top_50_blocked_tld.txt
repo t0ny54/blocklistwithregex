@@ -1,7 +1,7 @@
- 218257 com
-  41608 net
-  10835 org
-   9549 info
+ 218272 com
+  41614 net
+  10826 org
+   9525 info
    9335 io
    8170 fr
    7603 xyz
