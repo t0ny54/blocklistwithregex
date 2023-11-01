@@ -1,12 +1,12 @@
- 218259 com
-  41635 net
-  10821 org
-   9522 info
+ 218232 com
+  41645 net
+  10819 org
+   9508 info
    9345 io
    8170 fr
    7603 xyz
    7550 cc
-   6617 ru
+   6618 ru
    6277 pl
    5596 site
    5355 top
