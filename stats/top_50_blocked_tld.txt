@@ -1,7 +1,7 @@
- 218390 com
+ 218388 com
   41645 net
-  10905 org
-   9666 info
+  10893 org
+   9617 info
    9346 io
    8170 fr
    7603 xyz
@@ -36,7 +36,7 @@
    1241 eu
    1118 shop
    1076 cz
-   1058 space
+   1057 space
    1008 biz
     975 pro
     964 live
