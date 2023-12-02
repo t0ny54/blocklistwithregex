@@ -1,7 +1,7 @@
- 218451 com
-  41564 net
-  10903 org
-   9551 info
+ 218821 com
+  41582 net
+  11047 org
+   9650 info
    9420 io
    8170 fr
    7603 xyz
@@ -10,14 +10,14 @@
    6277 pl
    5596 site
    5355 top
-   5005 lu
+   5006 lu
    4783 de
    4191 page
    3989 ninja
    3479 br
    3324 uk
    3299 tk
-   3163 st
+   3164 st
    2921 jp
    2677 au
    2421 co
@@ -37,10 +37,10 @@
    1118 shop
    1076 cz
    1057 space
+   1035 nl
    1008 biz
     975 pro
     964 live
-    939 nl
     806 gq
     805 click
     803 club
