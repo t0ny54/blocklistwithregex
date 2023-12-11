@@ -1,5 +1,2 @@
-api.miner.beeppool.org
-js.multibrandaffiliates.com
-sass2.authcaptcha.com
-sea2.authcaptcha.com
-stone2.authcaptcha.com
+click.mail.salesforce.com
+play.pampopholf.com
