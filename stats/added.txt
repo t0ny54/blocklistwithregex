@@ -1,2 +1,0 @@
-click.mail.salesforce.com
-play.pampopholf.com
