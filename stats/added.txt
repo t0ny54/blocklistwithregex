@@ -1,0 +1,16 @@
+tracking.barometern.se
+tracking.blt.se
+tracking.bt.se
+tracking.kalmarposten.se
+tracking.klt.nu
+tracking.kristianstadsbladet.se
+tracking.meraosterlen.se
+tracking.nsk.se
+tracking.olandsbladet.se
+tracking.smp.se
+tracking.sydostran.se
+tracking.trelleborgsallehanda.se
+tracking.ut.se
+tracking.vaxjobladet.se
+tracking.vxonews.se
+tracking.ystadsallehanda.se
