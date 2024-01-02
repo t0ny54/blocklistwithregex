@@ -1,14 +1,14 @@
- 204891 com
-  39426 net
-  11042 org
-   9650 info
+ 205849 com
+  39621 net
+  11181 org
+   9695 info
    8170 fr
    7603 xyz
    7577 io
    7550 cc
    6618 ru
    6279 pl
-   5596 site
+   5599 site
    5355 top
    5006 lu
    4785 de
@@ -16,7 +16,7 @@
    3479 br
    3326 uk
    3299 tk
-   3164 st
+   3163 st
    2921 jp
    2677 au
    2423 co
@@ -35,11 +35,11 @@
    1242 eu
    1118 shop
    1076 cz
-   1057 space
-   1035 nl
+   1043 space
    1008 biz
     975 pro
     964 live
+    939 nl
     806 gq
     805 click
     803 club
