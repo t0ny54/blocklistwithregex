@@ -1,7 +1,3 @@
-ads.foxnetworks.com
-ads.friendfinder.com
-ads.guru3d.com
-ads.passion.com
-ads.web.de
-ads.wineenthusiast.com
-ads.yap.yahoo.com
+adserver.bestcontentonline.com
+adserver.friendfinder.com
+adserver.nydailynews.com
