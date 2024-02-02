@@ -1,10 +1,10 @@
- 205853 com
-  39621 net
-  11181 org
-   9695 info
+ 205550 com
+  39662 net
+  11242 org
+   9825 info
    8170 fr
-   7603 xyz
-   7578 io
+   7599 xyz
+   7577 io
    7550 cc
    6618 ru
    6279 pl
@@ -35,7 +35,7 @@
    1242 eu
    1118 shop
    1076 cz
-   1043 space
+   1057 space
    1008 biz
     975 pro
     964 live
