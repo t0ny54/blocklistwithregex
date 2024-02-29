@@ -1,2 +1,0 @@
-faro-collector-prod-eu-west-0.grafana.net
-sp-eu.dev.polarbyte.com
