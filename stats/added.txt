@@ -1,2 +1,4 @@
-ocean2.authcaptcha.com
-ppc.adhere.marchex.com
+rock2.authcaptcha.com
+sass2.authcaptcha.com
+sea2.authcaptcha.com
+stone2.authcaptcha.com
