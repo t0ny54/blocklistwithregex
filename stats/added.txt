@@ -1,1 +1,2 @@
-metrics.gfycat.com
+px.gfycat.com
+tls.telemetry.swe.quicinc.com
