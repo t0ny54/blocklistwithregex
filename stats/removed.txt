@@ -1,2 +1,1 @@
-ad.technoratimedia.com
-ads.intergi.com
+call-ad-network-api.marchex.com
