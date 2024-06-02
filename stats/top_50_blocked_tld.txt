@@ -1,14 +1,14 @@
- 205808 com
-  39673 net
-  11530 org
-   9799 info
+ 206119 com
+  39649 net
+  11625 org
+   9802 info
    8170 fr
    7604 xyz
-   7574 io
+   7576 io
    7550 cc
-   6618 ru
+   6617 ru
    6279 pl
-   5599 site
+   5600 site
    5355 top
    5006 lu
    4784 de
