@@ -1,1 +1,5 @@
-ppc.adhere.marchex.com
+ad.bizo.com
+ad.technoratimedia.com
+call-ad-network-api.marchex.com
+metrics.gfycat.com
+tls.telemetry.swe.quicinc.com
