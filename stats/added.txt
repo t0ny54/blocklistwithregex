@@ -1,1 +1,5 @@
-call-ad-network-api.marchex.com
+ad.bizo.com
+ad.technoratimedia.com
+ads.intergi.com
+ppc.adhere.marchex.com
+servclick1move.com
