@@ -1,11 +1,1 @@
-minero-proxy-01.now.sh
-minero-proxy-02.now.sh
-minero-proxy-03.now.sh
-mxcdn1.now.sh
-mxcdn2.now.sh
-npcdn1.now.sh
-party-vqgdyvoycc.now.sh
-r.edge.inmobicdn.net
-sxcdn02.now.sh
-sxcdn4.now.sh
-sxcdn6.now.sh
+ad.technoratimedia.com

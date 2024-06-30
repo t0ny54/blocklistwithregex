@@ -1,1 +1,3 @@
-ad.technoratimedia.com
+ad.bizo.com
+metrics.gfycat.com
+tls.telemetry.swe.quicinc.com
