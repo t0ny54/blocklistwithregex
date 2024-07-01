@@ -1,1 +1,2 @@
-ad.technoratimedia.com
+metrics.gfycat.com
+tls.telemetry.swe.quicinc.com

@@ -1,3 +1,2 @@
-ad.bizo.com
-metrics.gfycat.com
-tls.telemetry.swe.quicinc.com
+play.gramombird.com
+r.edge.inmobicdn.net
