@@ -1,4 +1,1 @@
-analytics.live.com
-js.adsaga.se
-ppc.adhere.marchex.com
-tracking.viivilla.se
+ad.technoratimedia.com
