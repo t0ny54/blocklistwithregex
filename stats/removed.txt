@@ -1,4 +1,1 @@
-analytics.live.com
-metrics.gfycat.com
-r.msn.com
-tls.telemetry.swe.quicinc.com
+call-ad-network-api.marchex.com
