@@ -1,1 +1,2 @@
-call-ad-network-api.marchex.com
+analytics.live.com
+px.gfycat.com
