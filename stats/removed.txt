@@ -1,5 +1,2 @@
-ad.bizo.com
-metrics.gfycat.com
-play.pampopholf.com
-ppc.adhere.marchex.com
-s3.pampopholf.com
+appmetrica.yandex.ru
+r.edge.inmobicdn.net

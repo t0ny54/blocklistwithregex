@@ -1,12 +1,12 @@
- 206792 com
-  39672 net
+ 206799 com
+  39673 net
   11689 org
    9778 info
    8170 fr
    7600 xyz
    7576 io
    7550 cc
-   6618 ru
+   6619 ru
    6279 pl
    5600 site
    5355 top
