@@ -1,1 +1,2 @@
-call-ad-network-api.marchex.com
+ad.technoratimedia.com
+analytics.live.com
