@@ -1,2 +1,6 @@
-r.msn.com
-tls.telemetry.swe.quicinc.com
+ad.bizo.com
+ad.technoratimedia.com
+ads.intergi.com
+metrics.gfycat.com
+play.pampopholf.com
+s3.pampopholf.com
