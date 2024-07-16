@@ -1,2 +1,5 @@
-r.msn.com
-tls.telemetry.swe.quicinc.com
+ads.intergi.com
+c.corporate-fundraising.co.uk
+metrics.gfycat.com
+play.pampopholf.com
+s3.pampopholf.com
