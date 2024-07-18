@@ -1,3 +1,2 @@
-call-ad-network-api.marchex.com
-r.edge.inmobicdn.net
-r.msn.com
+ads.intergi.com
+tls.telemetry.swe.quicinc.com
