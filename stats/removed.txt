@@ -1,2 +1,2 @@
-ads.intergi.com
-tls.telemetry.swe.quicinc.com
+ppc.adhere.marchex.com
+s3.pampopholf.com
