@@ -1,5 +1,5 @@
  206798 com
-  39674 net
+  39673 net
   11689 org
    9778 info
    8170 fr
@@ -45,6 +45,6 @@
     803 club
     780 vn
     763 life
-    754 se
+    755 se
     748 za
     747 es
