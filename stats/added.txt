@@ -1,13 +1,2 @@
-ad.technoratimedia.com
-email-link.adtidy.info
-lyricshook.com
-mediumshort.com
-metajaws.com
-overkick.com
-poemprompt.com
-r.edge.inmobicdn.net
-reloadphoto.com
-soicos.com
-starkscale.com
-superchichair.com
-zonewedgeshaft.com
+call-ad-network-api.marchex.com
+px.gfycat.com
