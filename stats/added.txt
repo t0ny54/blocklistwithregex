@@ -1,2 +1,4 @@
-call-ad-network-api.marchex.com
-px.gfycat.com
+ad.bizo.com
+ads.intergi.com
+annonsserver.se
+juiceblocks.com

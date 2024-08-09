@@ -1,5 +1,5 @@
- 207505 com
-  39679 net
+ 207507 com
+  39678 net
   11859 org
    9866 info
    8171 fr
@@ -45,6 +45,6 @@
     803 club
     780 vn
     763 life
-    756 se
+    757 se
     748 za
     747 es
