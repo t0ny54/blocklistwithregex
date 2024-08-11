@@ -1,3 +1,2 @@
-a.ads1.msn.com
-b.ads1.msn.com
-r.edge.inmobicdn.net
+ads.intergi.com
+metrics.gfycat.com
