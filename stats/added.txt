@@ -1,1 +1,6 @@
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
+emailer.stockbit.com
+metrics.gfycat.com
+play.pampopholf.com
+s3.pampopholf.com
