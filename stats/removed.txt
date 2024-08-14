@@ -1,4 +1,5 @@
-ads1.msn.com
-call-ad-network-api.marchex.com
-r.edge.inmobicdn.net
-r.msn.com
+a.ads1.msn.com
+ads.intergi.com
+b.ads1.msn.com
+metrics.gfycat.com
+tls.telemetry.swe.quicinc.com
