@@ -1,5 +1,5 @@
-a.ads1.msn.com
-b.ads1.msn.com
-cdn.rudderlabs.com
-loadbalancer.visitor-analytics.io
-statcounter.va-endpoint.com
+ad.bizo.com
+ads1.msn.com
+call-ad-network-api.marchex.com
+r.msn.com
+tls.telemetry.swe.quicinc.com
