@@ -1,5 +1,0 @@
-ad.bizo.com
-ads1.msn.com
-call-ad-network-api.marchex.com
-r.msn.com
-tls.telemetry.swe.quicinc.com
