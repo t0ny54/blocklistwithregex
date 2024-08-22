@@ -1,1 +1,4 @@
-tls.telemetry.swe.quicinc.com
+a.ads1.msn.com
+b.ads1.msn.com
+call-ad-network-api.marchex.com
+px.gfycat.com
