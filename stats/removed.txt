@@ -1,2 +1,2 @@
-ad.bizo.com
-ads1.msn.com
+a.ads1.msn.com
+b.ads1.msn.com
