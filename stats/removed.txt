@@ -1,2 +1,3 @@
-a.ads1.msn.com
-b.ads1.msn.com
+ad.bizo.com
+ad.technoratimedia.com
+ads1.msn.com
