@@ -1,4 +1,1 @@
-ad.bizo.com
-call-ad-network-api.marchex.com
-metrics.gfycat.com
-r.msn.com
+ad.technoratimedia.com
