@@ -1,2 +1,2 @@
-a.ads1.msn.com
-b.ads1.msn.com
+ads.intergi.com
+ads1.msn.com
