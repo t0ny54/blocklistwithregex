@@ -1,7 +1,7 @@
- 207511 com
-  39679 net
-  11859 org
-   9866 info
+ 208542 com
+  39674 net
+  12022 org
+  10094 info
    8171 fr
    7600 xyz
    7577 io
@@ -10,13 +10,13 @@
    6279 pl
    5600 site
    5355 top
-   5006 lu
+   5005 lu
    4784 de
    3989 ninja
    3479 br
    3330 uk
    3299 tk
-   3163 st
+   3164 st
    2921 jp
    2677 au
    2424 co
@@ -31,7 +31,7 @@
    1429 cf
    1399 me
    1384 ga
-   1312 us
+   1307 us
    1241 eu
    1118 shop
    1076 cz
