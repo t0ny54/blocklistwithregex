@@ -1,2 +1,4 @@
-a.ads1.msn.com
-b.ads1.msn.com
+ads.intergi.com
+call-ad-network-api.marchex.com
+ppc.adhere.marchex.com
+tls.telemetry.swe.quicinc.com
