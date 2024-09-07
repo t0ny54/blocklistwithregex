@@ -1,4 +1,2 @@
-ads.intergi.com
-call-ad-network-api.marchex.com
-ppc.adhere.marchex.com
-tls.telemetry.swe.quicinc.com
+ad.technoratimedia.com
+metrics.gfycat.com
