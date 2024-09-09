@@ -1,4 +1,4 @@
-ad.technoratimedia.com
-dc.schibsted.io
-metrics.gfycat.com
-sdkconfig.pulse.schibsted.io
+a.ads1.msn.com
+ad.bizo.com
+b.ads1.msn.com
+call-ad-network-api.marchex.com
