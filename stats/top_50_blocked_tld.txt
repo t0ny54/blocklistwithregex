@@ -45,6 +45,6 @@
     803 club
     780 vn
     763 life
-    757 se
+    759 se
     748 za
     747 es
