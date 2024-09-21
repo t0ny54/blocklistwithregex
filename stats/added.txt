@@ -1,3 +1,2 @@
-mediasquare.fr
-ogads-pa.googleapis.com
-paa-reporting-advertising.amazon
+bongeo.bonad.io
+sdkconfig.pulse.m10s.io
