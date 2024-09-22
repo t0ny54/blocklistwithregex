@@ -1,2 +1,0 @@
-bongeo.bonad.io
-sdkconfig.pulse.m10s.io
