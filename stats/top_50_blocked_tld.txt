@@ -1,22 +1,22 @@
- 208542 com
-  39674 net
-  12022 org
-  10094 info
-   8172 fr
+ 208497 com
+  39934 net
+  11991 org
+  10255 info
+   8171 fr
    7600 xyz
-   7581 io
+   7577 io
    7550 cc
    6619 ru
    6279 pl
    5600 site
    5355 top
-   5005 lu
+   5006 lu
    4784 de
    3989 ninja
    3479 br
    3330 uk
    3299 tk
-   3164 st
+   3163 st
    2921 jp
    2677 au
    2424 co
@@ -36,7 +36,7 @@
    1118 shop
    1076 cz
    1057 space
-   1008 biz
+   1012 biz
     977 pro
     964 live
     939 nl
