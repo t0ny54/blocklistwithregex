@@ -35,7 +35,7 @@
    1243 eu
    1207 pro
    1118 shop
-   1076 cz
+   1077 cz
    1057 space
    1012 biz
     964 live
