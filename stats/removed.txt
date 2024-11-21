@@ -1,1 +1,1 @@
-nimiq.icemining.ca
+miner.nimiq.com
