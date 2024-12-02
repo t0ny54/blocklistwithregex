@@ -1,14 +1,14 @@
- 208203 com
-  39833 net
-  12077 org
-  10304 info
+ 206340 com
+  39555 net
+  11665 org
+  10006 info
    8171 fr
-   7600 xyz
+   7601 xyz
    7580 io
    7550 cc
    6619 ru
    6285 pl
-   5600 site
+   5597 site
    5355 top
    5006 lu
    4784 de
@@ -36,7 +36,7 @@
    1210 pro
    1118 shop
    1076 cz
-   1057 space
+   1058 space
    1012 biz
     964 live
     939 nl
