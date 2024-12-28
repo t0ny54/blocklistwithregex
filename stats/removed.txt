@@ -1,0 +1,4 @@
+dev.cryptobara.com
+digger.cryptobara.com
+frogator.com
+miner.cryptobara.com
