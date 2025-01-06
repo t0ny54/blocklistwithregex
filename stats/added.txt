@@ -1,1 +1,2 @@
-ads.frihetsnytt.se
+stat.loppi.se
+stat.vimedbarn.se
