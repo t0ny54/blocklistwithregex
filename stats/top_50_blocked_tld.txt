@@ -1,50 +1,50 @@
- 206189 com
-  39538 net
-  11661 org
-  10004 info
-   8168 fr
-   7601 xyz
+ 206353 com
+  39555 net
+  11667 org
+  10006 info
+   8171 fr
+   7602 xyz
    7580 io
    7550 cc
-   6613 ru
-   6275 pl
+   6619 ru
+   6287 pl
    5597 site
    5355 top
    5006 lu
-   4779 de
+   4784 de
    3989 ninja
    3479 br
-   3327 uk
+   3330 uk
    3299 tk
-   3163 st
-   2918 jp
+   3164 st
+   2921 jp
    2677 au
-   2421 co
-   2377 online
+   2424 co
+   2378 online
    2339 stream
-   2157 cn
+   2159 cn
    2009 in
    1686 ml
    1525 ca
-   1479 it
-   1473 app
+   1483 it
+   1474 app
    1429 cf
    1399 me
    1384 ga
-   1306 us
-   1239 eu
-   1207 pro
+   1307 us
+   1247 eu
+   1212 pro
    1118 shop
-   1074 cz
+   1076 cz
    1058 space
-   1011 biz
+   1012 biz
     964 live
-    938 nl
+    939 nl
     806 gq
     805 click
     803 club
     780 vn
-    777 se
+    775 se
     763 life
     748 za
-    747 es
+    748 es
