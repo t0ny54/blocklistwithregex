@@ -27,7 +27,7 @@
    1686 ml
    1525 ca
    1483 it
-   1474 app
+   1473 app
    1429 cf
    1399 me
    1384 ga
@@ -44,7 +44,7 @@
     805 click
     803 club
     780 vn
-    776 se
+    777 se
     763 life
     748 za
     748 es
