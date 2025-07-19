@@ -1,12 +1,12 @@
- 206365 com
-  39557 net
+ 206371 com
+  39560 net
   11668 org
   10006 info
    8171 fr
    7602 xyz
-   7583 io
+   7584 io
    7550 cc
-   6617 ru
+   6619 ru
    6284 pl
    5597 site
    5355 top
