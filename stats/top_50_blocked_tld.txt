@@ -1,4 +1,4 @@
- 206383 com
+ 206382 com
   39563 net
   11669 org
   10006 info
@@ -35,7 +35,7 @@
    1244 eu
    1213 pro
    1118 shop
-   1076 cz
+   1077 cz
    1058 space
    1012 biz
     964 live
