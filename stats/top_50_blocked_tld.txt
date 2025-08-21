@@ -1,4 +1,4 @@
- 206382 com
+ 206386 com
   39563 net
   11669 org
   10006 info
@@ -35,7 +35,7 @@
    1244 eu
    1213 pro
    1118 shop
-   1077 cz
+   1076 cz
    1058 space
    1012 biz
     964 live
@@ -43,7 +43,7 @@
     806 gq
     805 click
     803 club
-    788 se
+    789 se
     780 vn
     763 life
     748 za
