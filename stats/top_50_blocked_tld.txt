@@ -1,4 +1,4 @@
- 206391 com
+ 206390 com
   39562 net
   11669 org
   10006 info
@@ -43,7 +43,7 @@
     806 gq
     805 click
     803 club
-    789 se
+    788 se
     780 vn
     763 life
     748 za
