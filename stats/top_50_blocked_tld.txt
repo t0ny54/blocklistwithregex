@@ -1,7 +1,7 @@
  206207 com
   39564 net
   11672 org
-  10005 info
+  10006 info
    8171 fr
    7602 xyz
    7588 io
