@@ -1,5 +1,5 @@
- 206225 com
-  39570 net
+ 206226 com
+  39571 net
   11672 org
   10006 info
    8171 fr
@@ -38,7 +38,7 @@
    1076 cz
    1058 space
    1012 biz
-    964 live
+    963 live
     939 nl
     806 gq
     805 click
