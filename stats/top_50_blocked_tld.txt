@@ -1,14 +1,14 @@
- 204254 com
-  39424 net
-  10810 org
-   9229 info
-   8172 fr
-   7604 xyz
-   7593 io
+ 206329 com
+  39572 net
+  11686 org
+  10006 info
+   8171 fr
+   7602 xyz
+   7588 io
    7550 cc
    6619 ru
    6281 pl
-   5600 site
+   5601 site
    5357 top
    5006 lu
    4784 de
@@ -26,18 +26,18 @@
    2009 in
    1686 ml
    1525 ca
-   1481 it
+   1483 it
    1473 app
    1429 cf
    1399 me
    1384 ga
    1307 us
-   1245 eu
+   1244 eu
+   1213 pro
    1118 shop
    1076 cz
    1058 space
-   1008 biz
-    979 pro
+   1012 biz
     964 live
     939 nl
     806 gq
