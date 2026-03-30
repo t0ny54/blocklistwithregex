@@ -17,7 +17,7 @@
    3333 uk
    3299 tk
    3163 st
-   2921 jp
+   2922 jp
    2677 au
    2425 co
    2377 online
@@ -40,8 +40,8 @@
    1012 biz
     964 live
     939 nl
+    807 click
     806 gq
-    806 click
     803 club
     790 se
     780 vn
