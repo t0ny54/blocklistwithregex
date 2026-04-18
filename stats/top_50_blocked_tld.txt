@@ -1,50 +1,50 @@
- 206356 com
-  39575 net
-  11686 org
-  10006 info
-   8171 fr
-   7602 xyz
-   7589 io
+ 173594 com
+  15087 net
+   9573 org
+   8135 fr
+   7596 xyz
    7550 cc
-   6619 ru
-   6281 pl
-   5601 site
-   5358 top
-   5006 lu
-   4784 de
+   6410 ru
+   6293 info
+   6274 pl
+   5595 site
+   5354 top
+   4641 de
    3989 ninja
    3479 br
-   3333 uk
+   3321 uk
    3299 tk
-   3163 st
-   2922 jp
-   2677 au
-   2425 co
+   2817 jp
+   2676 au
    2377 online
-   2339 stream
-   2159 cn
-   2009 in
+   2338 stream
+   2222 co
+   2078 cn
+   2006 in
+   1878 io
    1686 ml
-   1525 ca
-   1483 it
-   1473 app
+   1523 ca
+   1477 it
+   1464 app
    1429 cf
-   1399 me
    1384 ga
-   1307 us
-   1243 eu
-   1213 pro
+   1302 us
+   1224 me
+   1208 eu
    1118 shop
-   1076 cz
-   1058 space
-   1012 biz
-    964 live
-    939 nl
-    807 click
+   1072 cz
+   1040 space
+   1004 biz
+    969 pro
+    939 live
+    938 nl
     806 gq
     803 club
-    790 se
-    780 vn
     763 life
-    748 za
-    748 es
+    757 vn
+    747 es
+    746 za
+    700 mx
+    692 dev
+    667 icu
+    651 gdn
